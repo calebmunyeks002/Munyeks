@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: Munyeks-backend
+  datasource:
+    database:
+      url:
+        username:
+          password:
+            driver-class-name:
+  jpa:
+    properties:
+      hibernate:
+        dialect:
