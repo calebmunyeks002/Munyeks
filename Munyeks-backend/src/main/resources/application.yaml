@@ -3,9 +3,9 @@ spring:
     name: Munyeks-backend
   datasource:
     database:
-      url:
-        username:
-          password:
+      url: https://GEMINI_API_KEY/new key
+        username: Munyeks
+          password: 12345678
             driver-class-name:
   jpa:
     properties:
